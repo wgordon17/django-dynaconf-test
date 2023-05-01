@@ -12,5 +12,5 @@ dependencies = [
     "dynaconf",
     "setuptools",
 ]
-requires-python = ">=3.11"
+requires-python = ">=3.9"
 license = {text = "MIT"}
