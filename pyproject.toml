@@ -1,0 +1,16 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Will Gordon"},
+]
+dependencies = [
+    "django",
+    "dynaconf",
+    "setuptools",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
